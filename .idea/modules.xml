@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NoPhantoms.iml" filepath="$PROJECT_DIR$/NoPhantoms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoPhantoms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/NoPhantoms_main.iml" group="NoPhantoms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NoPhantoms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/NoPhantoms_test.iml" group="NoPhantoms" />
+    </modules>
+  </component>
+</project>

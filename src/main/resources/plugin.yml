@@ -1,0 +1,3 @@
+name: NoPhantoms
+version: @version@
+main: com.miclesworkshop.nophantoms.NoPhantoms
